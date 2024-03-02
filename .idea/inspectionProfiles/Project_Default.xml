@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="GradlePackageUpdate" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="excludeList">
+        <list>
+          <option value="com.fasterxml.jackson.core:jackson-annotations" />
+          <option value="com.fasterxml.jackson.core:jackson-core" />
+          <option value="com.fasterxml.jackson.core:jackson-databind" />
+          <option value="org.testng:testng" />
+          <option value="org.junit.jupiter:junit-jupiter-engine" />
+          <option value="org.junit.jupiter:junit-jupiter-api" />
+          <option value="org.projectlombok:lombok" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
